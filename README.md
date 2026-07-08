@@ -1,5 +1,5 @@
 <p align="center">
-  <img y src="https://raw.githubusercontent.com/KannurAnudeepRaj/KannurAnudeepRaj/main/banner.png" />
+  <imgvid src="https://raw.githubusercontent.com/KannurAnudeepRaj/KannurAnudeepRaj/main/banner.jhpng" />
 </p>
 
 # Kannur Anudeep Raj
